@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 30 14:29:38 2024
 
-@author: pkollepara
+
 """
 
 # Package importation
