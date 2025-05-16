@@ -2,7 +2,6 @@
 """
 Created on Tue Dec 17 12:37:58 2024
 
-@author: PKollepara
 """
 
 import numpy as np
