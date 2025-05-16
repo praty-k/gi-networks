@@ -2,7 +2,6 @@
 """
 Created on Mon Oct 28 13:40:54 2024
 
-@author: pkollepara
 """
 
 
